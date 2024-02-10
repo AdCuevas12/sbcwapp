@@ -1,0 +1,17 @@
+{
+    "name": "Smoke Belching Companion Web App",
+    "short_name": "SBCWapp",
+    "start_url": "/index.php",
+    "background_color": "#644930",
+    "description": "Companion on the road",
+    "display": "fullscreen",
+    "theme_color": "#644930",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
