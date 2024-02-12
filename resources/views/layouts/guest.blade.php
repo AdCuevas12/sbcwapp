@@ -13,7 +13,6 @@
         <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
         <!-- Scripts -->
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
 
         <!-- Styles -->
         @livewireStyles
